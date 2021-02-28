@@ -3,11 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/MDI.java</file>
-            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/Add_Product.java</file>
-            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/Add_New_Customer.java</file>
-            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/Add_Category.java</file>
-            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/Add_Sub_Category.java</file>
+            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/frm_Add_New_Category.java</file>
+            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/frm_Customer.java</file>
+            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/frm_Update_Distrubutor_Info.java</file>
+            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/frm_Stock.java</file>
+            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/frm_View_All_Customer.java</file>
+            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/mdi.java</file>
+            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/frm_Add_New_Customer.java</file>
+            <file>file:/C:/Users/sai/Documents/NetBeansProjects/Mobile_Shop/src/pkg_Mobile_Shop/frm_View_Distrubutor_Details.java</file>
         </group>
     </open-files>
 </project-private>
